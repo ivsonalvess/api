@@ -1,6 +1,7 @@
-Basics
+pré requisitos
 ^^^^^^
-
+* python3
 * pip
 * virtualenv
 * PostgreSQL
+
