@@ -1,7 +1,10 @@
 pré requisitos
 ^^^^^^
+* Git
 * python3
 * pip
 * virtualenv
 * PostgreSQL
+* Docker
+* Docker compose
 
